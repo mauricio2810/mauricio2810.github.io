@@ -6,7 +6,7 @@
 		<tr>
 			<td>
 				<center>
-				<img  width="140" height="140" src="C:/Users/KB/Desktop/INDEX/IMAGENES/CALAVERAS.jpg">
+				<img  width="140" height="140" src="IMAGENES/CALAVERAS.jpg">
 			</td>
 				</center>
 		</tr>
