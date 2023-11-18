@@ -43,18 +43,18 @@
 			<tr>
 				<td align="center"><br><br>
 					<a href="https://www.youtube.com/watch?v=K6q-fMAtYBE">
-					<img width="90%" height="180" src="C:/Users/KB/Desktop/INDEX/IMAGENES/PANDA.jpg">
+					<img width="90%" height="180" src="INDEX/IMAGENES/PANDA.jpg">
 					</a>
 				</td>
 			</tr>
 			<tr>
 				<td align="center">
-					<img width="90%" height="180" src="C:/Users/KB/Desktop/INDEX/IMAGENES/PANDA.jpg">
+					<img width="90%" height="180" src="INDEX/IMAGENES/PANDA.jpg">
 				</td>
 			</tr>
 			<tr>
 				<td align="center">
-					<img width="60%" height="200" src="C:/Users/KB/Desktop/INDEX/IMAGENES/AUDIOPROD.jpg">
+					<img width="60%" height="200" src="INDEX/IMAGENES/AUDIOPROD.jpg">
 				</td>
 			</tr>
 		</table>
@@ -67,7 +67,7 @@
 			&nbsp	
 		</td>
 		<td>
-			<img width="510" height="232" src="C:/Users/KB/Desktop/INDEX/IMAGENES/ROCK.bmp" usemap="#rock">
+			<img width="510" height="232" src="INDEX/IMAGENES/ROCK.bmp" usemap="#rock">
 		</td>
 	</tr>
 </table>
